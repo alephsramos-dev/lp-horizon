@@ -1,0 +1,80 @@
+.home__padding{
+    height: 90vh;
+    width: 100%;
+    padding: 0 10%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.home__container{
+    width: 50%;
+    height: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    z-index: 1;
+}
+
+.home__title{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.home__title h1{
+    font-size: 3.6rem;
+    line-height: 100%;
+    font-weight: 400;
+    height: 40%;
+    color: #fff;
+}
+
+.home__title p{
+    font-size: 1.1rem;
+    font-weight: 200;
+    width: 80%;
+    height: 40%;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    justify-content: center;
+}
+
+.home__title b{
+    color: #ca2626;
+}
+
+.home__btn{
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 30px;
+    background-color: #ca2626;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+}
+
+.home__btn a{
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.2rem;
+    align-items: center;
+    justify-content: center;
+    font-weight: 200;
+}
+
+.home__btn a hr{
+    height: 20px;
+    width: 0px;
+}

@@ -1,0 +1,44 @@
+.fotos__padding{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 20vh;
+    position: relative;
+    z-index: 4;
+    background-color: #fff;
+    border-top: 3px solid #000;
+}
+
+.fotos__btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 0%;
+    height: 20vh;
+    position: absolute;
+    z-index: 10;
+}
+
+.fotos__btn button{
+    width: 15%;
+    height: 30%;
+    padding: 10px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    background-color: #000;
+    border: none;
+    color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+}
+
+.fotos__btn hr{
+    height: 70%;
+}
+
+.fotos__btn i{
+    font-size: 1.2rem;
+}
