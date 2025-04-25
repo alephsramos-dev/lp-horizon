@@ -9,7 +9,7 @@ Página estática criada para **treinar** meu HTML e CSS.
 Esta landing page tem como foco apresentar um pouco da história de um jogo de videogame. 
 
 Demo:  
-https://alephsramos-dev.github.io/lp-mealmonkey/
+https://alephsramos-dev.github.io/lp-horizon/
 
 ---
 
@@ -60,7 +60,7 @@ index.html             # Ponto de entrada
 
 1. **Clone**  
    ```bash
-   git clone https://github.com/alephsramos-dev/lp-mealmonkey.git
+   git clone https://github.com/alephsramos-dev/lp-horizon.git
    ```
 2. **Abra**  
    - Dê duplo clique em `src/index.html`  
